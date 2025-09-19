@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello from Acquisitions man","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [19/Sep/2025:10:17:11 +0000] \"GET / HTTP/1.1\" 200 26 \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
